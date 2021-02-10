@@ -1,0 +1,13 @@
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\bin\Debug\Function.exe.config
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\bin\Debug\Function.exe
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\bin\Debug\Function.pdb
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\bin\Debug\System.Data.SqlClient.dll
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\bin\Debug\System.Data.SqlClient.xml
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\obj\Debug\Function.csprojAssemblyReference.cache
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\obj\Debug\Function.Functions.resources
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\obj\Debug\Function.Properties.Resources.resources
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\obj\Debug\Function.csproj.GenerateResource.cache
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\obj\Debug\Function.csproj.CopyComplete
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\obj\Debug\Function.exe
+G:\Scuola\Informatica\info-playground-NicoDovetta\Function\Function\obj\Debug\Function.pdb
